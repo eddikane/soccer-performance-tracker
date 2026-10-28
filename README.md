@@ -62,33 +62,6 @@ The project also separates responsibilities across classes for matches, training
 - Basic calculations
 - Separation of responsibilities across classes
 
-## How to Run
-
-### Requirements
-
-- .NET SDK
-- A terminal or IDE such as Visual Studio Code
-
-### Steps
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/eddikane/soccer-performance-tracker.git
-```
-
-2. Navigate into the project folder:
-
-```bash
-cd soccer-performance-tracker
-```
-
-3. Run the application:
-
-```bash
-dotnet run
-```
-
 ## Example Workflow
 
 When the program starts, the user creates a player and selects a position.
